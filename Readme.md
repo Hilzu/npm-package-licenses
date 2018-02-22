@@ -28,7 +28,6 @@ License is an [SPDX license identifier](https://spdx.org/licenses/).
 | MPL-2.0              | 1 380             |
 | LGPL-3.0             | 1 038             |
 | CC0-1.0              | 957               |
-| Multiple             | 653               |
 | GPL-3.0+             | 254               |
 | CC-BY-4.0            | 222               |
 | Artistic-2.0         | 174               |
@@ -45,6 +44,7 @@ License is an [SPDX license identifier](https://spdx.org/licenses/).
 | AGPL-1.0             | 78                |
 | CC-BY-NC-SA-4.0      | 76                |
 | BSD-2-Clause-FreeBSD | 67                |
+| 0BSD                 | 63                |
 
 ## Other
 
